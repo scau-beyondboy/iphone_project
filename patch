@@ -1,0 +1,8 @@
+diff --git a/test.py b/test.py
+index d5c6ad3..4e0fcff 100644
+--- a/test.py
++++ b/test.py
+@@ -1,2 +1,2 @@
+ class Threa{
+-}
++jjfla}
