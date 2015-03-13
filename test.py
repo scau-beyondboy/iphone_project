@@ -1,2 +1,0 @@
-class def{
-def(self)}
